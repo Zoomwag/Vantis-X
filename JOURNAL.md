@@ -33,13 +33,17 @@ I started doing a lot of research on the areodynamics of a flying wing and start
 
 ---
 
-## [Devlog Title]
+## Just did some airfoil test
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan
+**Date:** 29/08/26
+**Time Spent:** 1 hour
 
-[Write your development log here.]
+just started doing some simulations on 3 airfoils the mh 60 mh 61 and the pw 51 i am maingin looking for aoifrl that have a coefficent of lift above 0.6 wih an angle of attakc as low as possible. I am testing all of the airfoils at reynodls numbers of 100k up to 500k with and aoa between -5 and + 15
+
+<img width="272" height="440" alt="Screenshot 2026-08-29 112818" src="https://github.com/user-attachments/assets/cf724431-956d-4e2f-b308-a6b34f6ec908" />
+
+<img width="1920" height="1200" alt="Screenshot 2026-08-29 112750" src="https://github.com/user-attachments/assets/04f4ffc1-b288-41d7-abd2-b1da2b55efbe" />
 
 ---
 
