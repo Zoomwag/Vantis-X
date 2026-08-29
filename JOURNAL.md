@@ -10,13 +10,25 @@
 
 # Devlog
 
-## [Devlog Title]
+## First Bit 
 
 **Author:** [Name]
 **Date:** [DD/MM/YYYY]
 **Time Spent:** [X hours]
 
-[Write what you worked on today. Explain what you built, changed, tested, researched, or learned. Mention any problems you encountered and how you solved them. Include relevant decisions and results.]
+
+---
+
+## First Bit of work on airframe
+
+
+**Author:** Jonathan
+**Date:** 28/08/26
+**Time Spent:** 4.89 Hours
+I started doing a lot of research on the areodynamics of a flying wing and started creating a fully parametric wing with as many variables as possible so that when i use the neural network to optimise it will end up as efficent as possible
+
+<img width="705" height="412" alt="Screenshot 2026-08-28 071347" src="https://github.com/user-attachments/assets/7a1aee39-9fe1-4f6a-86f5-920af20e9567" />
+
 
 ---
 
@@ -40,6 +52,167 @@
 
 ---
 
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
 ## [Devlog Title]
 
 **Author:** [Name]
