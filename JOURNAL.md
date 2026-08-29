@@ -2,9 +2,9 @@
 
 ## Project Information
 
-**Project:** [Project Name]
-**Team:** [Person 1], [Person 2], [Person 3]
-**Start Date:** [DD/MM/YYYY]
+**Project:** Vantis-X
+**Team:** Jonathan Bercovici, shaurya ashu, William de Marchi
+**Start Date:** 28/08/26
 
 ---
 
