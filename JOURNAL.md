@@ -19,7 +19,7 @@
 
 ---
 
-## First Bit of work on airframe
+## Devlog 1
 
 
 **Author:** Jonathan
@@ -33,7 +33,7 @@ I started doing a lot of research on the areodynamics of a flying wing and start
 
 ---
 
-## Just did some airfoil test
+## Devlog 2
 
 **Author:** Jonathan
 **Date:** 29/08/26
@@ -47,13 +47,19 @@ just started doing some simulations on 3 airfoils the mh 60 mh 61 and the pw 51 
 
 ---
 
-## [Devlog Title]
+## Devlog 3
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan
+**Date:** 30/08/26
+**Time Spent:** 1.5 Hours
 
-[Write your development log here.]
+I finished making a hugely simplified model of the UAV with only 3 paramates
+<img width="1317" height="848" alt="image" src="https://github.com/user-attachments/assets/137bc183-1d61-49de-800e-e08ecba26bdc" />
+
+I also worked on trying to understand how open foam actually work so far i just got to simulating the desufalt airfoil. Its a lot harder than i thought
+
+<img width="1897" height="1135" alt="image" src="https://github.com/user-attachments/assets/01650ab6-523c-42fd-aaa1-73b7774dc7ed" />
+
 
 ---
 
