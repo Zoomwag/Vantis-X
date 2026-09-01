@@ -63,13 +63,76 @@ I also worked on trying to understand how open foam actually work so far i just 
 
 ---
 
-## [Devlog Title]
+## Devlog 3
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan
+**Date:** 1/09/26
+**Time Spent:** 2.2
 
-[Write your development log here.]
+
+start learning how to wire a neural network currently i taught it to find out if a point is inside a circle this is my horrible code: 
+
+import torch
+import torch.nn as nn
+
+
+torch.manual_seed(42)
+
+x = torch.rand(1000, 2) * 2 - 1
+
+distance = x[:, 0]**2 + x[:, 1]**2
+
+y = (distance < 0.5).float().unsqueeze(1)
+
+model = nn.Sequential(
+    nn.Linear(2, 8),
+    nn.Tanh(),
+    nn.Linear(8, 8),
+    nn.Tanh(),
+    nn.Linear(8, 1)
+)
+
+loss_fn = nn.BCEWithLogitsLoss()
+
+optimizer = torch.optim.Adam(
+    model.parameters(),
+    lr=0.01
+)
+
+for epoch in range(7000):
+
+    prediction = model(x)
+
+    loss = loss_fn(prediction, y)
+
+    optimizer.zero_grad()
+
+    loss.backward()
+
+    optimizer.step()
+
+    if epoch % 100 == 0:
+        print("epoch:",
+              epoch,
+              "loss",
+              loss.item()  
+              )
+
+test = torch.tensor([[ 1, 0.4]], dtype=torch.float32)
+
+prediction = model(test)    
+probability = torch.sigmoid(prediction)
+print("probabulty:", probability.item())
+print(prediction)
+if probability > 0.5:
+    print("in cicle")
+else :
+    print("not in curcle")
+
+
+
+<img width="912" height="448" alt="image" src="https://github.com/user-attachments/assets/a8e50a6d-878b-4959-9034-b988d1ec6cfb" />
+
 
 ---
 ## [Devlog Title]
