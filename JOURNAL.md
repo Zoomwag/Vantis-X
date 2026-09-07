@@ -135,13 +135,17 @@ else :
 
 
 ---
-## [Devlog Title]
+## Devlog 4
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Shaurya Ashu
+**Date:** 08/09/26
+**Time Spent:** 2.75 Hrs
 
-[Write your development log here.]
+I've started with brainstorming on some of the Key aspects of the projector with Jonathan and finalize the requirements of the project which you could find in  requirement.md . After this discussion, I started working on the gimbal for the
+FPV camera and took some deign notes from the internet and then fined the gamble with two SG90S metal gear servo motors and a 19mm FPV camera holder . It has a rotation of 260 degrees and a tilt of 45-90 degrees .
+
+<img width="1440" height="900" alt="Screenshot 2026-09-08 at 2 11 17 AM" src="https://github.com/user-attachments/assets/9a54a929-b29d-4b7c-8cbf-869d57942299" />
+
 
 ---
 
