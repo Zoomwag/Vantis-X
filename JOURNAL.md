@@ -149,13 +149,16 @@ FPV camera and took some deign notes from the internet and then fined the gamble
 
 ---
 
-## [Devlog Title]
+## Devlog 5
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan B
+**Date:** 16/09/26
+**Time Spent:** 6
+<img width="649" height="360" alt="image" src="https://github.com/user-attachments/assets/cacb5321-e5a8-4773-a45c-8c33daab653e" />
 
-[Write your development log here.]
+i finally finishd the body now i can start working on the nerunel network for the wing
+
+
 
 ---
 ## [Devlog Title]
