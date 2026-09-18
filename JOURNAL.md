@@ -161,13 +161,15 @@ i finally finishd the body now i can start working on the nerunel network for th
 
 
 ---
-## [Devlog Title]
+## Devlog 5
+**Author:** Jonathan B
+**Date:** 18/09/26
+**Time Spent:** 2
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+I managed to sucesfully run my first cfd simulation and ther ersults are looking pretty prosmsing i also finished the first desing of the acutaly plane.
+<img width="995" height="692" alt="image" src="https://github.com/user-attachments/assets/02231d83-833b-4489-b06a-e7eae3410999" />
+<img width="3240" height="1624" alt="actual_tihng_v1_2026-Sep-18_04-33-55PM-000_CustomizedView23877549274" src="https://github.com/user-attachments/assets/9cc711c5-88ee-4f58-9302-01b2ab630b8c" />
 
-[Write your development log here.]
 
 ---
 
