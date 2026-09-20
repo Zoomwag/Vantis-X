@@ -179,76 +179,98 @@ I managed to sucesfully run my first cfd simulation and ther ersults are looking
 **Date:** 20/09/26
 **Time Spent:** 4
 
-I  a bit more work refininf the airfoil and made this really cool internal strucutre
+I  a bit more work refining the airfoil and made this really cool internal strucutre
 
 <img width="1361" height="793" alt="image" src="https://github.com/user-attachments/assets/aecb4a17-cd2c-4c39-a27f-e5ec090cc8a6" />
 
 
 ---
-## [Devlog Title]
+## UAV Drone research
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** William D
+**Date:** 15/09/2026
+**Time Spent:** 0.76 hours
 
-[Write your development log here.]
+Here I just simply did lots of drone research for the drone.
 
----
+<img width="1895" height="972" alt="image" src="https://github.com/user-attachments/assets/c9ba5b11-e40c-42b7-8138-ec0c87997050" />
 
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
 
 ---
 
-## [Devlog Title]
+## Here I started research about the rockets and unity
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** William D
+**Date:** 16/09/2026
+**Time Spent:** [3.01 hours]
 
-[Write your development log here.]
+I learnt how to start unity and I researched the missiles I'm going to make.
 
----
-## [Devlog Title]
+<img width="1917" height="986" alt="image" src="https://github.com/user-attachments/assets/946245a5-2eea-4c35-9f1b-4b621beaf7bd" />
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
 
 ---
+## Designing the rocket P1
 
-## [Devlog Title]
+**Author:** William D
+**Date:** 17/09/2026
+**Time Spent:** [1.2 hours]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+Here made a super thin rocket design that is pretty much just the size of the motor we are putting on the back.
 
-[Write your development log here.]
+<img width="1912" height="948" alt="image" src="https://github.com/user-attachments/assets/28d14c50-df99-4763-a940-50997f872b4e" />
+
 
 ---
-## [Devlog Title]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+## Starting my code in Wokwi
 
-[Write your development log here.]
+**Author:** William D
+**Date:** [20/09/2026]
+**Time Spent:** [0.56 hours]
+
+I started my simulation and code in Wokwi
+
+<img width="1908" height="938" alt="image" src="https://github.com/user-attachments/assets/7b28800a-45cf-4931-bb0e-48380b0b18ec" />
+
+
+
+---
+## Continuing coding
+
+**Author:** William D
+**Date:** [20/09/2026]
+**Time Spent:** [1.9 hours]
+
+Here I added another servo to the simulation to simulate the PWM signals for a drone motor and I added to the code and did most of it, now I have to make it work.
+
+<img width="1917" height="852" alt="image" src="https://github.com/user-attachments/assets/f346e76a-16f6-476b-bd3f-35819a37b54b" />
+
+
+---
+
+## More research and setting up a CFD
+
+**Author:** William D
+**Date:** [20/09/2026]
+**Time Spent:** [2.1 hours]
+
+Here I did a bunch of research for guiding rockets and stabalising them, then I decided to start the CFD.
+
+<img width="1917" height="985" alt="image" src="https://github.com/user-attachments/assets/7db9b82d-770f-4928-80cd-333958c183e6" />
+
+
+---
+## Troubleshooting CFD with claude
+
+**Author:** William D
+**Date:** [20/09/2026]
+**Time Spent:** [1.35 hours]
+
+Here I used claude to help me troubleshoot the CFD I was using because it wasnt working, little sucess.
+
+<img width="1917" height="955" alt="image" src="https://github.com/user-attachments/assets/2828bc07-06de-4830-8106-7d630121cd30" />
+
 
 ---
 
