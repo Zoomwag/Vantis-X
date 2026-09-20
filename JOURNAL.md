@@ -173,13 +173,16 @@ I managed to sucesfully run my first cfd simulation and ther ersults are looking
 
 ---
 
-## [Devlog Title]
+## Devlog 7
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan B
+**Date:** 20/09/26
+**Time Spent:** 4
 
-[Write your development log here.]
+I  a bit more work refininf the airfoil and made this really cool internal strucutre
+
+<img width="1361" height="793" alt="image" src="https://github.com/user-attachments/assets/aecb4a17-cd2c-4c39-a27f-e5ec090cc8a6" />
+
 
 ---
 ## [Devlog Title]
