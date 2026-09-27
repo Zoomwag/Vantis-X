@@ -274,41 +274,50 @@ Here I used claude to help me troubleshoot the CFD I was using because it wasnt 
 
 ---
 
-## [Devlog Title]
+## Worked on the gyroscope
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** Jonathan
+**Date:** 24/09/26
 
-[Write your development log here.]
+here you can see i made the circuit for the imu for the fc. I picked the bmi 270 becusae it is really efficent has a bunch of documetation and can be run at insane speeds
+<img width="833" height="617" alt="image" src="https://github.com/user-attachments/assets/a173b7ab-ab9e-489e-89f9-703a5de93a0c" />
 
----
-## [Devlog Title]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
-[Write your development log here.]
+
 
 ---
+## Worked on the power for the board
 
-## [Devlog Title]
+**Author:** Jonathan
+**Date:** 25/09/26
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
-[Write your development log here.]
+
+today i made the the usbc intefrace adn the volatge regulator. I originaly wanted to use the ams 1117 voltage reg but then i realsied that it is only a liniar volatage reg so that it is not that effiect also it means i loose quite a bit of battery voltage becuase it cant go below 3.3 volts. so in the end i went with the tps 63001drcr becusae it was perefectly for what i needed. Since it is a buck boost converter it allows there to be a 3v3 steady 3v3 even when the battery is less that 3.3 volts. This will be really usefull if i want to use a lithium ion battery so that i could get the full range of chage.
+<img width="755" height="297" alt="image" src="https://github.com/user-attachments/assets/502252d3-eb56-4683-bd54-87f7eb8f9b6f" />
+
 
 ---
-## [Devlog Title]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+## Desinged the charger
 
-[Write your development log here.]
+**Author:** Jonathan
+**Date:** 26/07/26
+
+This is the circuit for the charger for the baord. It is really cool because it has a integrated power path which means that it is able to power the system while chargrin it also menas that the charger is fully disconnected fomr the main systems which means if something happens we dont have to replace the whole system.
+[<img width="841" height="542" alt="image" src="https://github.com/user-attachments/assets/b1d26ecd-b832-4063-93a8-d8c0da475a77" />
+
+
+---
+## Added a bunch more
+
+**Author:** Jonathan
+**Date:** 27/09/26
+
+
+<img width="1229" height="853" alt="image" src="https://github.com/user-attachments/assets/27a248e2-2876-4aca-815c-f13c21272e5f" />
+
 
 ---
 
