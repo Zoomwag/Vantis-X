@@ -321,22 +321,94 @@ This is the circuit for the charger for the baord. It is really cool because it 
 
 ---
 
-## [Devlog Title]
+## Researching more with videos
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** William
+**Date:** 25/09/2026
+**Time Spent:** 2.5 hours
 
-[Write your development log here.]
+Here I looked at a bunch of rocketry videos where I learnt how to use a cfd, rocket guidance and waypoints among other things.
+
+
+<img width="1170" height="962" alt="image" src="https://github.com/user-attachments/assets/527256a8-5823-4e3b-be1f-6442df565bbf" />
 
 ---
-## [Devlog Title]
+## Making my stl into ASCII
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Author:** William
+**Date:** 27/09/2026
+**Time Spent:** 0.8 hours
 
-[Write your development log here.]
+Here I converted a test stl into ASCII format for a cfd I was atempting to use.
+
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/67bd611e-de00-4ee8-b2fd-371bd2d79efc" />
+
+
+---
+
+## Troubleshooting and designing fins
+
+**Author:** William
+**Date:** 27/09/2026 
+**Time Spent:** 1.2 hours
+
+Here I troublehshooted why openfoam wasnt working then I started designing some fins for the rocket.
+
+<img width="1717" height="726" alt="image" src="https://github.com/user-attachments/assets/7e706d81-df17-4628-8f00-f418fe2cd91b" />
+
+
+---
+
+## Camera and stabilising
+
+**Author:** William
+**Date:** 27/09/2026
+**Time Spent:** 0.7
+
+Here I researched cameras and stabilisation for video by watching a video
+
+
+<img width="1243" height="778" alt="image" src="https://github.com/user-attachments/assets/0829f7ab-271e-427c-9f9f-5dd6b000f9ab" />
+
+---
+
+## Running simflow
+
+**Author:** William
+**Date:** 27/09/2026
+**Time Spent:** 1.8
+
+Here I decided to stop trying openFoam and run simflow instead.
+
+<img width="1622" height="950" alt="image" src="https://github.com/user-attachments/assets/ac25b34c-c5b5-4452-9e17-bb32216e2e82" />
+
+
+---
+
+## Testing my rocket stl with simflow
+
+**Author:** William
+**Date:** 27/09/2026
+**Time Spent:** 2.3
+
+Here I decided to test my missile with simflow but the missile fins had different sharpnesses so that I could compare them and see which one was the best
+
+<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/8401ab90-0fc3-4641-92d1-76f75629d13f" />
+
+
+---
+
+## Looking at my simflow results
+
+**Author:** William
+**Date:** 27/09/2026
+**Time Spent:** 0.3
+
+Here I just looked at the test results but they were very abnormal so I might need to retest
+
+<img width="1917" height="953" alt="image" src="https://github.com/user-attachments/assets/06c16000-068d-48b3-9007-8327c0dc71fb" />
+
 
 ---
 
