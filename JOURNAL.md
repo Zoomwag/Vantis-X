@@ -412,6 +412,33 @@ Here I just looked at the test results but they were very abnormal so I might ne
 
 ---
 
+Finished Schemtic
+
+
+
+<img width="1091" height="722" alt="image" src="https://github.com/user-attachments/assets/3f2518ad-669e-47e2-aef8-caa3c37f2a35" />
+After working for what felt like ages i though i finally finished with the schematic. Then i looked at it. It did not look good. I realised there were so many problems i spent like 4 hours reading data sheets and finsing so many problems. THen i decided that there was not one single 21 pin conncotr. I looked everywher 
+
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
 ## [Devlog Title]
 
 **Author:** [Name]
@@ -437,8 +464,281 @@ Here I just looked at the test results but they were very abnormal so I might ne
 **Date:** [DD/MM/YYYY]
 
 [Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
 
 ---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+## [Devlog Title]
+
+**Author:** [Name]
+**Date:** [DD/MM/YYYY]
+**Time Spent:** [X hours]
+
+[Write your development log here.]
+
+---
+
+# Milestones
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
+
+---
+
+## [Milestone Name]
+
+**Date:** [DD/MM/YYYY]
+
+[Briefly describe what was achieved.]
 
 # Final Devlog
 
