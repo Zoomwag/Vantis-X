@@ -422,6 +422,80 @@ After working for what felt like ages i though i finally finished with the schem
 
 ---
 
+## Trying CFD again
+
+**Author:** William D
+**Date:** [03/10/2026]
+**Time Spent:** 0.2hrs
+
+Here I tried and failed at doing another cfd.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/49428aaa-db1b-4804-a5f7-c4b3822f9367" />
+
+
+---
+
+## Making edits to the UAV
+
+**Author:** William D
+**Date:** [03/10/2026]
+**Time Spent:** 2.4hrs
+
+Here I made edits to the UAV like starting to make flaps.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/97d418e3-02d0-40c0-a5de-20da3613dbf7" />
+
+
+---
+
+## Researching flaps and wingletes
+
+**Author:** William D
+**Date:** [03/10/2026]
+**Time Spent:** 1.3hrs
+
+Here I researched and began making more things such as wingletes, flaps and a servo model. 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/1853adcf-2436-4420-8912-2344e6892369" />
+
+
+---
+
+## Adding to my design and running my cfd
+
+**Author:** William D
+**Date:** [03/10/2026]
+**Time Spent:** 0.8hrs
+
+Here I added to my final design test and put it into a cfd to finally find the aerodynamics of different angles for my rocket fins.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/0632b5ed-af99-4bf7-9211-541f9f97d884" />
+
+
+---
+
+## Restarting my rocket stl then making most of my flaps
+
+**Author:** William D
+**Date:** [04/10/2026]
+**Time Spent:** 2.3hrs
+
+This time I restarted my rocket stl fins then made the majority of my flap components.
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/685b2c1d-1157-4f5a-9384-1a438f16828e" />
+
+
+---
+
+## Learning about forms Finishing flaps and most of stl then running cfd
+
+**Author:** William D
+**Date:** [04/10/2026]
+**Time Spent:** 3.6hrs
+
+Here I made my flaps aerodynamic with some things I learnt about forms and sweeps then I started to run my cfd to see if the flaps actually made the body good.
+
+---
 # Milestones
 
 ## [Milestone Name]
