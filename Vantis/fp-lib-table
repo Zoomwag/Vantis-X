@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OPL") (type "KiCad") (uri "C:/Users/main/Documents/KiCad/10.0/footprints") (options "") (descr ""))
+	(lib (name "ran") (type "Legacy") (uri "C:/Users/main/Documents/KiCad/10.0/footprints/TPS63001DRCR.mod") (options "") (descr ""))
+	(lib (name "jlc") (type "KiCad") (uri "C:/Users/main/Documents/KiCad/10.0/footprints/JLCImport.pretty") (options "") (descr ""))
+  (lib (name "JLCImport")(type "KiCad")(uri "${KIPRJMOD}/JLCImport.pretty")(options "")(descr ""))
+)

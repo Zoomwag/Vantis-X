@@ -1,0 +1,7 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OPL") (type "KiCad") (uri "C:/Users/main/Documents/KiCad/10.0/symbols/BMI270.kicad_sym") (options "") (descr ""))
+	(lib (name "voltage") (type "KiCad") (uri "C:/Users/main/Documents/KiCad/10.0/symbols/TPS63001DRCR.kicad_sym") (options "") (descr ""))
+	(lib (name "ufl") (type "KiCad") (uri "C:/Users/main/Documents/KiCad/10.0/symbols/U_FL-R-SMT-1_80_.kicad_sym") (options "") (descr ""))
+  (lib (name "JLCImport")(type "KiCad")(uri "${KIPRJMOD}/JLCImport.kicad_sym")(options "")(descr ""))
+)
