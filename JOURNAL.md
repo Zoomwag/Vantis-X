@@ -496,328 +496,40 @@ This time I restarted my rocket stl fins then made the majority of my flap compo
 Here I made my flaps aerodynamic with some things I learnt about forms and sweeps then I started to run my cfd to see if the flaps actually made the body good.
 
 ---
-# Milestones
+##Finally finished the pcb
+Board overview
 
-## [Milestone Name]
 
-**Date:** [DD/MM/YYYY]
 
-[Briefly describe what was achieved.]
 
----
 
-## [Milestone Name]
+**Board overview**
 
-**Date:** [DD/MM/YYYY]
+![Flight controller overview](https://github.com/user-attachments/assets/8eea7abb-85fb-49e4-922a-a9f101639a05)
 
-[Briefly describe what was achieved.]
+**3D model**
 
----
-## [Devlog Title]
+![Flight controller 3D model](https://github.com/user-attachments/assets/06632110-cac9-4f71-8b95-1295c2ae6703)
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
+**Schematic**
 
-[Write your development log here.]
+![Flight controller schematic](https://github.com/user-attachments/assets/e305dce8-af96-478a-8973-603be42d0536)
 
----
+**PCB layout**
 
-# Milestones
+The PCB layout translates the circuit schematic into a physical board, with component placement, routing and grounding all considered during the design.
 
-## [Milestone Name]
+![PCB layer 1](https://github.com/user-attachments/assets/a161cc43-932e-4906-a4a9-b5d414013f0c)
 
-**Date:** [DD/MM/YYYY]
+![PCB layer 2](https://github.com/user-attachments/assets/668ae79c-cd84-4791-b4a1-9d645ad60420)
 
-[Briefly describe what was achieved.]
+![PCB layer 3](https://github.com/user-attachments/assets/1d039bbe-1a09-454a-8218-ca065d1c6b65)
 
----
+![PCB layout detail](https://github.com/user-attachments/assets/bf4c0ca4-ae57-4a87-a3a9-a524c2f1104f)
 
-## [Milestone Name]
 
-**Date:** [DD/MM/YYYY]
 
-[Briefly describe what was achieved.]
-## [Devlog Title]
 
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-## [Devlog Title]
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
-
-[Write your development log here.]
-
----
-
-# Milestones
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
----
-
-## [Milestone Name]
-
-**Date:** [DD/MM/YYYY]
-
-[Briefly describe what was achieved.]
-
-# Final Devlog
-
-**Author:** [Name]
-**Date:** [DD/MM/YYYY]
-**Time Spent:** [X hours]
 
 [Describe the final result, what the team accomplished, what worked, what didn't, and what you learned from the project.]
