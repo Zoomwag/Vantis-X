@@ -36,6 +36,11 @@ The PCB layout translates the circuit schematic into a physical board, with comp
 
 ![PCB layout detail](https://github.com/user-attachments/assets/bf4c0ca4-ae57-4a87-a3a9-a524c2f1104f)
 
+## BOM
+
+<img width="959" height="353" alt="image" src="https://github.com/user-attachments/assets/e7958e3c-bee8-4871-85dc-47fca61ba9f0" />
+Here you can see this is the BOM for the plane. It has all the parts you need to built the plane yourself. Right now the pcb is very explanive but if you order more then the price will go down a lot.
+
 ## Specifications
 
 | Parameter | Value |
