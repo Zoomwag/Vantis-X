@@ -1,0 +1,100 @@
+import time
+import math
+from machine import I2C, Pin, PWM
+from imu import MPU6050
+#simple import
+
+
+i2c = I2C(0, sda=Pin(0), scl=Pin(1), freq=400000)
+imu = MPU6050(i2c)
+imu.accel.full_scale_range = 2
+
+slide_switch = Pin(15, Pin.IN, Pin.PULL_UP)
+previous_state = slide_switch.value()
+
+def setup_servo(pin_num):
+    s = PWM(Pin(pin_num))
+    s.freq(50)
+    return s
+
+servo1 = setup_servo(20)
+servo2 = setup_servo(27)
+servo3 = setup_servo(17)
+servo4 = setup_servo(16)
+servoM = setup_servo(22)
+
+#setting everything up with pins
+
+def set_servo_angle(servo_obj, angle):
+    duty = int((angle / 180) * 6553 + 1638) 
+    servo_obj.duty_u16(duty)
+
+active_anglex = 0.0
+active_angley = 0.0
+active_anglez = 0.0
+
+UPDATE_RATE = 10
+
+#initiating angles w servos
+
+while True:
+    state = slide_switch.value()
+
+    accel = imu.accel
+    gyro = imu.gyro
+  
+    live_anglex = gyro.x
+    live_angley = gyro.y
+    live_anglez = gyro.z
+
+    print("Accel x:{:+5.2f} y:{:+5.2f} z:{:+5.2f} | Gyro x:{:+7.2f} y:{:+5.2f} z:{:+5.2f}".format(
+        accel.x, accel.y, accel.z, live_anglex, live_angley, live_anglez), end='\r')
+#for testing
+
+
+    if state == 0 and previous_state == 1:
+        active_anglex = live_anglex
+        active_angley = live_angley
+        active_anglez = live_anglez
+
+    if state == 0:
+        abs_dev_x = abs(active_anglex - live_anglex)
+        abs_dev_y = abs(active_angley - live_angley)
+        abs_dev_z = abs(active_anglez - live_anglez)
+#comparing angles to form angles over time 
+#end of code kinda :)
+
+#the following hashes are notes for later
+        if abs_dev_x > 5.0:
+            set_servo_angle(servo1, 90)
+
+#CALIBRATE POS IRL
+
+        if abs_dev_y > 5.0:
+            set_servo_angle(servo2, 90)
+
+#CALIBRATE POS IRL
+
+        if abs_dev_z > 5.0:
+            set_servo_angle(servo3, 90)
+
+#CALIBRATE POS IRL
+
+        if abs_dev_x > -5.0:
+            set_servo_angle(servo1, -90)
+
+#CALIBRATE NEG IRL
+
+        if abs_dev_y > -5.0:
+            set_servo_angle(servo2, -90)
+
+#CALIBRATE NEG IRL
+
+        if abs_dev_z > -5.0:
+            set_servo_angle(servo3, -90)
+
+#CALIBRATE NEG IRL
+
+
+    previous_state = state
+    time.sleep(1.0 / UPDATE_RATE)
